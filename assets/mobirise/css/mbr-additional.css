@@ -732,7 +732,6 @@ a {
   justify-content: center;
   position: relative;
   min-width: 30%;
-  max-width: 596px;
 }
 @media (max-width: 768px) {
   .cid-tpjCZELXIb .embla__slide {
