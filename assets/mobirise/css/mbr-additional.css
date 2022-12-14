@@ -826,9 +826,10 @@ a {
 .cid-tpjCZELXIb .shadow {
   border-radius: 34px;
   overflow: visible;
-  padding: 12px;
+  padding: 0px;
   border: 1px solid #eff0f6;
   background-color: #ffffff;
+  margin: 5px;
 }
 .cid-tpjCZELXIb .wrap-img {
   transition: all 300ms ease !important;
@@ -840,7 +841,7 @@ a {
 }
 .cid-tpjCZELXIb img {
   border-radius: 25px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   width: 100%;
 }
 .cid-tpjCZELXIb .card-title {
